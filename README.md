@@ -1,6 +1,6 @@
 # Olá, bem vindo(a) ao meu perfil!
 
-- 🖥️ Estudando JS e Bootstrap5.
+- 🖥️ Estudando Java, Js e Bootstrap5.
 - 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas pelo Grupo Integrado.
 
 <div>
