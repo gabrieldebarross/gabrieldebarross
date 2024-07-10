@@ -2,7 +2,7 @@
 
 ## Mais sobre mim:
 
-- 🖥️ Estudando Java, Js e Bootstrap5.
+- 🖥️ Estudando Js e Bootstrap5.
 - 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas pelo Grupo Integrado.
 
 <div>
@@ -23,7 +23,6 @@
   <img align="center" alt="GabrielB-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GabrielB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GabrielB-Bootstrap" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
-  <img align="center" alt="GabrielB-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img align="center" alt="GabrielB-Sass" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
 </div>
 
