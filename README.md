@@ -2,7 +2,7 @@
 
 ## Mais sobre mim:
 
-- 🖥️ Estudando Js e Bootstrap5.
+- 🖥️ Estudando Js.
 - 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas pelo Grupo Integrado.
 
 <div>
