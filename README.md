@@ -2,7 +2,7 @@
 
 ## Mais sobre mim:
 
-- 🖥️ Estudando Js.
+- 🖥️ Estudando Java, TypeScript, ReactJs e NodeJs.
 - 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas pelo Grupo Integrado.
 
 <div>
