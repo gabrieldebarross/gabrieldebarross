@@ -86,17 +86,8 @@ Atualmente, meu foco está no ecossistema **TypeScript**, desenvolvendo aplicaç
 ## 📊 GitHub Stats
 
 <p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieldebarross&show_icons=true&theme=tokyonight&count_private=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldebarross&layout=compact&theme=tokyonight">
-
+[![Gabriel - Status GitHub](https://github-stats-extended.vercel.app/api?username=gabrieldebarross)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gabrieldebarross&layout=donut&langs_count=6&hide_values=true&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=6&hide_values=true&theme=graywhite)
 </p>
 
 ---
-
-## 🚀 Atualmente estudando
-
-**TypeScript • Next.js • Node.js • Express • Arquitetura de Software**
-
-
