@@ -85,9 +85,7 @@ Atualmente, meu foco está no ecossistema **TypeScript**, desenvolvendo aplicaç
 
 ## 📊 GitHub Stats
 
-<p align="left">
-[![Gabriel - Status GitHub](https://github-stats-extended.vercel.app/api?username=gabrieldebarross)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gabrieldebarross&layout=donut&langs_count=6&hide_values=true&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=6&hide_values=true&theme=graywhite)
-</p>
+
 
 ---
