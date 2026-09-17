@@ -1,10 +1,10 @@
-# 👋 Me chamo Gabriel
+# Me chamo Gabriel, seja bem vindo(a) ao meu GitHub.
 
 🚀 **Desenvolvedor Full Stack | TypeScript & Node.js**
 
-Desenvolvo **sistemas web, APIs e aplicações Full Stack**, com foco em código organizado, boas práticas e soluções que atendam às necessidades do negócio.
+Desenvolvo sistemas web, APIs e aplicações Full Stack, com foco em código organizado, boas práticas e soluções que atendam às necessidades do negócio.
 
-Atualmente, meu foco está no ecossistema **TypeScript**, desenvolvendo aplicações com **Next.js no frontend** e **Node.js no backend**.
+Atualmente, meu foco está no ecossistema TypeScript, desenvolvendo aplicações com Next.js no frontend e Node.js no backend.
 
 ---
 
