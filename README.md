@@ -27,13 +27,12 @@ Atualmente, meu foco está no ecossistema **TypeScript**, desenvolvendo aplicaç
 
 ## 🧠 O que faço
 
-* 🖥️ Desenvolvimento de aplicações Full Stack
-* ⚙️ Desenvolvimento de APIs REST
-* 🔐 Autenticação e autorização
-* 🗄️ Integração com bancos de dados
-* 📊 Dashboards e sistemas administrativos
-* 🚀 Desenvolvimento de produtos e SaaS
-
+* 🖥️ Desenvolvimento de aplicações web Full Stack
+* ⚙️ Construção e integração de APIs REST
+* 🔐 Sistemas com autenticação, autorização e controle de acesso
+* 🗄️ Modelagem e integração com bancos de dados
+* 📊 Desenvolvimento de sites, dashboards e sistemas administrativos
+  
 ---
 
 ## 🛠️ Tecnologias
