@@ -1,4 +1,4 @@
-# Me chamo Gabriel, seja bem vindo(a) ao meu GitHub.
+# Bem-vindo(a) ao meu espaço de código!
 
 🚀 **Desenvolvedor Full Stack | TypeScript & Node.js**
 
