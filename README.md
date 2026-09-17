@@ -84,12 +84,12 @@ Atualmente, meu foco está no ecossistema **TypeScript**, desenvolvendo aplicaç
 ---
 
 ## 📊 GitHub
-<div align="right">
+<div align="left">
 <a href="https://github-stats-extended.vercel.app/api?username=gabrieldebarross&rank_icon=github&custom_title=Gabriel%20-%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=gabrieldebarross&rank_icon=github&custom_title=Gabriel%20-%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=dark" height="170">
+  <img src="https://github-stats-extended.vercel.app/api?username=gabrieldebarross&rank_icon=github&custom_title=Gabriel%20-%20GitHub%20Status&show_icons=true&include_all_commits=true&theme=dark" height="200">
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=gabrieldebarross&layout=donut&langs_count=6&hide_values=true&theme=dark">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gabrieldebarross&layout=donut&langs_count=6&hide_values=true&theme=dark" height="170">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gabrieldebarross&layout=donut&langs_count=6&hide_values=true&theme=dark" height="200">
 </a>
 </div>
 
