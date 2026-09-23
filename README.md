@@ -1,6 +1,6 @@
 # console.log("Gabriel")
 
-🚀 **Desenvolvedor Full Stack | TypeScript & Node.js**
+🚀 **Desenvolvedor Full Stack | React, NextJs, TypeScript & Node.js**
 
 Desenvolvo sistemas web, APIs e aplicações Full Stack, com foco em código organizado, boas práticas e soluções que atendam às necessidades do negócio.
 
@@ -12,7 +12,7 @@ Atualmente, meu foco está no ecossistema TypeScript, desenvolvendo aplicações
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/gabrieldebarros/" target="_blank">
+<a href="https://www.linkedin.com/in/gabrieldebarross/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:gabrieldebarros_@hotmail.com">
